@@ -1,3 +1,10 @@
 body{
 background: #f0ebe3;
+font-family:'Times New Roman', Times, serif;
+display: flex;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
 }
