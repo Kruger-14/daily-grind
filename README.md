@@ -1,4 +1,4 @@
-# My Git Lab: The Daily Grind 👍
+# My Git Lab: The Daily Grind :)
 
 I built a small coffee shop website to understand how Git works while actually coding. Instead of only reading about it, I followed these steps to practice tracking my work.
 
